@@ -71,13 +71,13 @@ Each answer includes source references:
 - Warranty Policy (chunk 0)
 ```
 ### Below are the exact outputs demonstrating how the system works:
-- Arabic Response Output**
+- Arabic Response Output
   ![Arabic Output](Screenshots/output_1.png)
 
-- English Response Output**
+- English Response Output
   ![English Output](Screenshots/output2.png)
 
-- Out-of-Scope Handling**
+- Out-of-Scope Handling
   ![No Scope Output](Screenshots/noscope.png)
 
 ### ⏱ Performance Report
@@ -86,5 +86,5 @@ Each answer includes source references:
 * Memory: Minimal
 * Scalability: Easily extendable to more documents
 
-- Citation and Cost Report**
+- Citation and Cost Report
   ![Citation and Cost](Screenshots/LatenctAndCostReport.png)
