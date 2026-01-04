@@ -86,5 +86,5 @@ Each answer includes source references:
 * Memory: Minimal
 * Scalability: Easily extendable to more documents
 
-- Citation and Cost Report
+- Latency and Cost Report
   ![Citation and Cost](Screenshots/LatenctAndCostReport.png)
