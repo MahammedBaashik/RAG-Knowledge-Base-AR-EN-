@@ -18,6 +18,8 @@ Build a lightweight RAG system that can:
 ```bash
 Ingest → Chunk → Embed → Index → Query → Retrieve → Answer + Citations
 ```
+## Flowchart
+![Diagram](Screenshots/flow_3.png)
 
 ### Implemented Steps:
 1. Document ingestion
